@@ -30,7 +30,7 @@ build/
 target/
 bin/
 dependency-reduced-pom.xml
-
+sandbox/
 # Eclipse Project Files
 
 .classpath
